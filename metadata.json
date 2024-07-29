@@ -1,0 +1,23 @@
+{
+  "id_": "A0374036F",
+  "segments_metadata": {
+    "IE454BDFB": {
+      "type": "Root_Segment",
+      "relation": "Source",
+      "lang": "Tibetan",
+      "base": "ba52",
+      "layer": "Root_Segment-989.json"
+    },
+    "IB2F08DF3": {
+      "type": "Commentary",
+      "relation": "Target",
+      "lang": "Tibetan",
+      "base": "ed4e",
+      "layer": "Commentary-342.json"
+    }
+  },
+  "source_metadata": {
+    "type": "Root_Commentary",
+    "source": "D3878-final"
+  }
+}
